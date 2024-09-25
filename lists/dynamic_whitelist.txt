@@ -1,2 +1,10 @@
-# connect.facebook.net
-api-js.datadome.co
+imasdk.googleapis.com
+app.appsflyer.com
+app.adjust.com
+js.monitor.azure.com
+c.office.com
+measure.office.com
+click.discord.com
+za.zalo.me
+gecko-sg.byteoversea.com
+cdn.cookielaw.org
